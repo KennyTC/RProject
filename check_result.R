@@ -1,0 +1,3 @@
+checkResult <- function(){
+  
+}
